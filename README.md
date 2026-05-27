@@ -20,6 +20,6 @@ This project analyzes manufacturing defect patterns, inspection methods, and rep
 - Structural defects were common compared to functional and cosmetic defects
 - The number of defects through a control chart is between the upper control limit (UCL) and lower control limit (LCL). Most structural defects are above the mean
 - Visual inspection and manual testing were frequently utilised quality control methods
-- In terms of defect location, surface level defects were the most prevalent. this is due to ease of detection
-- 
+- In terms of defect location, surface-level defects were the most prevalent. This is due to the ease of detection
+  
 
