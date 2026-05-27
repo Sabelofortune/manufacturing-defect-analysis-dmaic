@@ -1,1 +1,1 @@
-# manufacturing-defect-analysis-dmaic
+# manufacturing-defect-analysis
